@@ -1,3 +1,5 @@
+### works in progress, will include a deploy script in the future 
+
 # 2lay/infra
 
 Welcome to my infra repository! Here, you'll find the configuration files *(dotfiles)* I use across my servers.
